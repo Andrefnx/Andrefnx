@@ -5,19 +5,19 @@
 ## TECNOLOGÍAS
 <table width="100%">
 <tr>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" /><br/><b>Python</b><br/>● ● ● ● ●</td>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" /><br/><b>JavaScript</b><br/>● ● ● ● ○</td>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" /><br/><b>Java</b><br/><span style="white-space: nowrap;">●&nbsp;○&nbsp;○&nbsp;○&nbsp;○</span></td>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" /><br/><b>HTML5</b><br/>● ● ● ● ●</td>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" /><br/><b>CSS3</b><br/>● ● ● ● ○</td>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" /><br/><b>Bootstrap</b><br/>● ● ● ● ○</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" /><br/><b>Python</b><br/>●&nbsp;●&nbsp;●&nbsp;●&nbsp;●</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" /><br/><b>JavaScript</b><br/>●&nbsp;●&nbsp;●&nbsp;●&nbsp;○</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" /><br/><b>Java</b><br/>●&nbsp;○&nbsp;○&nbsp;○&nbsp;○</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" /><br/><b>HTML5</b><br/>●&nbsp;●&nbsp;●&nbsp;●&nbsp;●</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" /><br/><b>CSS3</b><br/>●&nbsp;●&nbsp;●&nbsp;●&nbsp;○</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" /><br/><b>Bootstrap</b><br/>●&nbsp;●&nbsp;●&nbsp;●&nbsp;○</td>
 </tr>
 <tr>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" /><br/><b>React</b><br/>● ● ○ ○ ○</td>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" /><br/><b>Django</b><br/>● ● ● ● ○</td>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" /><br/><b>Node.js</b><br/>● ● ○ ○ ○</td>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" /><br/><b>PostgreSQL</b><br/>● ● ● ● ○</td>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" /><br/><b>MySQL</b><br/>● ● ● ○ ○</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" /><br/><b>React</b><br/>●&nbsp;●&nbsp;○&nbsp;○&nbsp;○</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" /><br/><b>Django</b><br/>●&nbsp;●&nbsp;●&nbsp;●&nbsp;○</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" /><br/><b>Node.js</b><br/>●&nbsp;●&nbsp;○&nbsp;○&nbsp;○</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" /><br/><b>PostgreSQL</b><br/>●&nbsp;●&nbsp;●&nbsp;●&nbsp;○</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" /><br/><b>MySQL</b><br/>●&nbsp;●&nbsp;●&nbsp;○&nbsp;○</td>
 <td width="16.66%" height="135" align="center" valign="middle">&nbsp;</td>
 </tr>
 </table>
