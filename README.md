@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Andrefnx/Andrefnx/main/Black%20Minimalist%20Linkedin%20Banner.gif" width="100%" />
-</p>
 
 
 ## TECNOLOGÍAS
