@@ -72,35 +72,60 @@
 </tr>
 </table>
 
-## PROYECTOS DESTACADOS
+## Proyectos destacados
 
-<table width="100%"><tr>
-<td width="50%" align="center" valign="top">
-<h3>01. VetSantaSofia</h3>
-<a href="https://github.com/Andrefnx/VetSantaSofia"><img src="./P1-v3.png" width="100%" alt="VetSantaSofia - Sistema de gestión veterinaria" /></a>
-<p align="left"><sub>Sistema web de gestión veterinaria para centralizar el trabajo diario de una clínica. Incluye agenda inteligente por veterinario, pacientes, ficha e historial clínico, consultas, hospitalizaciones, reportes y recordatorios. La demo pública permite recorrer el flujo principal del sistema con una presentación visual orientada a escritorio, tablet y móvil.</sub></p>
-<p align="center"><code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>JavaScript</code> <code>Bootstrap</code></p>
-<hr>
-<p align="center"><a href="https://github.com/Andrefnx/VetSantaSofia"><img src="https://img.shields.io/badge/Repositorio-161b22?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://andrefnx.github.io/VetSantaSofia/"><img src="https://img.shields.io/badge/Demo-161b22?style=flat-square&logo=googlechrome&logoColor=white" /></a></p>
-</td>
-<td width="50%" align="center" valign="top">
-<h3>02. Writing Toolkit</h3>
-<a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="./P2-writing-toolkit.svg" width="100%" alt="Writing Toolkit - Herramientas de escritura y revisión para Google Docs" /></a>
-<p align="left"><sub>Conjunto de herramientas para Google Docs desarrollado con Apps Script para apoyar la escritura y revisión de documentos. Permite contar palabras con desglose por pestaña, comparar versiones detectando contenido nuevo, eliminado, modificado, movido o dividido, y exportar la pestaña activa a HTML.</sub></p>
-<p align="center"><code>Google Apps Script</code> <code>JavaScript</code> <code>HTML</code> <code>Google Docs</code></p>
-<hr>
-<p align="center"><a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="https://img.shields.io/badge/Repositorio-161b22?style=flat-square&logo=github&logoColor=white" /></a></p>
-</td>
-</tr></table>
+### 01. VetSantaSofia
 
-<table width="100%"><tr>
-<td width="50%" align="center" valign="top">
-<h3>03. Notion Automatizaciones</h3>
-<a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="./P3-notion-template-v2.svg" width="100%" alt="Plantilla de Notion - Gestión Financiera Mensual automatizada" /></a>
-<p align="left"><sub>Plantilla de gestión financiera mensual con estética de Notion y automatización real mediante Python, requests y Notion API. Crea períodos mensuales, registra el sueldo, replica gastos programados y genera cuotas de compras; la demo pública usa exclusivamente datos ficticios y no requiere token ni conexión a una cuenta de Notion.</sub></p>
-<p align="center"><code>Python</code> <code>Requests</code> <code>Notion API</code> <code>React</code> <code>JavaScript</code></p>
-<hr>
-<p align="center"><a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="https://img.shields.io/badge/Repositorio-161b22?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://andrefnx.github.io/Notion_Automatizaciones/"><img src="https://img.shields.io/badge/Demo-161b22?style=flat-square&logo=googlechrome&logoColor=white" /></a></p>
-</td>
-<td width="50%"></td>
-</tr></table>
+<a href="https://github.com/Andrefnx/VetSantaSofia">
+  <img src="COVERS/vet.png" width="100%" alt="VetSantaSofia - sistema de gestión veterinaria" />
+</a>
+
+Sistema de gestión veterinaria que integra agenda, pacientes, atención clínica, hospitalización, inventario, servicios, caja y administración según los roles del equipo.
+
+**Tecnologías:** `Python` · `Django` · `PostgreSQL` · `JavaScript` · `Bootstrap`
+
+**Repositorio:** https://github.com/Andrefnx/VetSantaSofia  
+**Demo:** https://andrefnx.github.io/VetSantaSofia/
+
+---
+
+### 02. Notion Automatizaciones
+
+<a href="https://github.com/Andrefnx/Notion_Automatizaciones">
+  <img src="COVERS/notion.png" width="100%" alt="Notion Automatizaciones - integración y procesos programados con Notion API" />
+</a>
+
+Conjunto de automatizaciones en Python para consultar, procesar y actualizar información de Notion mediante su API y ejecuciones programadas.
+
+**Tecnologías:** `Python` · `Requests` · `Notion API` · `React` · `JavaScript`
+
+**Repositorio:** https://github.com/Andrefnx/Notion_Automatizaciones  
+**Demo:** https://andrefnx.github.io/Notion_Automatizaciones/
+
+---
+
+### 03. Writing Toolkit
+
+<a href="https://github.com/Andrefnx/Writing_Toolkit">
+  <img src="COVERS/writing.svg" width="100%" alt="Writing Toolkit - apoyo para escritura y revisión en Google Docs" />
+</a>
+
+Herramienta complementaria para Google Docs orientada a organizar, comparar y revisar textos durante el proceso de escritura. Actualmente continúa en desarrollo.
+
+**Tecnologías:** `Google Apps Script` · `JavaScript` · `HTML` · `Google Docs`
+
+**Repositorio:** https://github.com/Andrefnx/Writing_Toolkit
+
+---
+
+### 04. Organizador de Windows
+
+<a href="https://github.com/Andrefnx/Project_Manager">
+  <img src="COVERS/windows.png" width="100%" alt="Organizador de Windows - clasificación automatizada de archivos y carpetas" />
+</a>
+
+Herramienta configurable para clasificar y mover automáticamente archivos o carpetas según nombres, tipos, fechas y reglas programadas por el usuario.
+
+**Tecnologías:** `Python` · `React` · `Windows Task Scheduler`
+
+**Repositorio:** https://github.com/Andrefnx/Project_Manager
