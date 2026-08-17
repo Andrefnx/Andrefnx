@@ -7,7 +7,7 @@
 <tr>
 <td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" /><br/><b>Python</b><br/>● ● ● ● ●</td>
 <td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" /><br/><b>JavaScript</b><br/>● ● ● ● ○</td>
-<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" /><br/><b>Java</b><br/>● ○ ○ ○ ○</td>
+<td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" /><br/><b>Java</b><br/><span style="white-space: nowrap;">●&nbsp;○&nbsp;○&nbsp;○&nbsp;○</span></td>
 <td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" /><br/><b>HTML5</b><br/>● ● ● ● ●</td>
 <td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" /><br/><b>CSS3</b><br/>● ● ● ● ○</td>
 <td width="16.66%" height="135" align="center" valign="middle"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" /><br/><b>Bootstrap</b><br/>● ● ● ● ○</td>
