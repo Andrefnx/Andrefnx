@@ -49,10 +49,10 @@
 </td>
 <td width="50%" align="center" valign="top">
 <h3>04. Organizador-Respaldos-Windows</h3>
-<a href="https://github.com/Andrefnx/Project_Manager"><img src="COVERS/windows.svg" width="100%" alt="Organizador-Respaldos-Windows - automatización de archivos en Windows" /></a>
+<a href="https://github.com/Andrefnx/Windows_File_Backup"><img src="COVERS/windows.svg" width="100%" alt="Organizador-Respaldos-Windows - automatización de archivos en Windows" /></a>
 <p align="left"><sub>Automatización en Python para organizar y respaldar archivos de producción en Windows mediante reglas de fecha, jornada e inactividad, con ejecución programada y prevención de sobrescrituras.</sub></p>
 <p align="center"><code>Python</code> <code>pytest</code> <code>PowerShell</code> <code>Windows Task Scheduler</code></p>
-<p align="center"><a href="https://github.com/Andrefnx/Project_Manager"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
+<p align="center"><a href="https://github.com/Andrefnx/Windows_File_Backup"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 </tr>
 </table>
