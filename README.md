@@ -27,32 +27,36 @@
 <td width="50%" align="center" valign="top">
 <h3>01. VetSantaSofia</h3>
 <a href="https://github.com/Andrefnx/VetSantaSofia"><img src="COVERS/vet.png" width="100%" alt="VetSantaSofia - sistema de gestión veterinaria" /></a>
-<p align="left"><sub>Sistema de gestión veterinaria que integra agenda, pacientes, atención clínica, hospitalización, inventario, servicios, caja y administración según los roles del equipo.</sub></p>
+<p align="left"><sub>Sistema de gestión veterinaria desarrollado desde cero como proyecto de título aprobado. Integra agenda, pacientes, atención clínica, hospitalización, inventario, servicios, caja y administración según roles.</sub></p>
 <p align="center"><code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>JavaScript</code> <code>Bootstrap</code></p>
-<p align="center"><a href="https://github.com/Andrefnx/VetSantaSofia"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a>&nbsp;&nbsp;<a href="https://andrefnx.github.io/VetSantaSofia/"><img src="https://img.shields.io/badge/Demo-30363d?style=flat-square&logo=googlechrome&logoColor=white&labelColor=30363d" alt="Demo" /></a></p>
+<p align="center"><a href="https://github.com/Andrefnx/VetSantaSofia"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 <td width="50%" align="center" valign="top">
 <h3>02. Notion Automatizaciones</h3>
 <a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="COVERS/notion.png" width="100%" alt="Notion Automatizaciones - integración con Notion API" /></a>
-<p align="left"><sub>Conjunto de automatizaciones en Python para consultar, procesar y actualizar información de Notion mediante su API y ejecuciones programadas.</sub></p>
-<p align="center"><code>Python</code> <code>Requests</code> <code>Notion API</code> <code>React</code> <code>JavaScript</code></p>
-<p align="center"><a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a>&nbsp;&nbsp;<a href="https://andrefnx.github.io/Notion_Automatizaciones/"><img src="https://img.shields.io/badge/Demo-30363d?style=flat-square&logo=googlechrome&logoColor=white&labelColor=30363d" alt="Demo" /></a></p>
+<p align="left"><sub>Automatizaciones en Python para consultar, procesar y actualizar información de Notion mediante su API, reduciendo tareas manuales recurrentes.</sub></p>
+<p align="center"><code>Python</code> <code>Requests</code> <code>Notion API</code> <code>JavaScript</code></p>
+<p align="center"><a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
 <h3>03. Writing Toolkit</h3>
 <a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="COVERS/writing.svg" width="100%" alt="Writing Toolkit - apoyo para escritura y revisión en Google Docs" /></a>
-<p align="left"><sub>Herramienta complementaria para Google Docs orientada a organizar, comparar y revisar textos durante el proceso de escritura. Actualmente continúa en desarrollo.</sub></p>
+<p align="left"><sub>Herramienta para Google Docs orientada a organizar, comparar y revisar textos durante el proceso de escritura. Actualmente continúa en desarrollo.</sub></p>
 <p align="center"><code>Google Apps Script</code> <code>JavaScript</code> <code>HTML</code> <code>Google Docs</code></p>
 <p align="center"><a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 <td width="50%" align="center" valign="top">
-<h3>04. Organizador de Windows</h3>
-<a href="https://github.com/Andrefnx/Project_Manager"><img src="COVERS/windows.svg" width="100%" alt="Organizador de Windows - movimiento automatizado de archivos en Windows" /></a>
-<p align="left"><sub>Herramienta configurable para clasificar y mover automáticamente archivos o carpetas según nombres, tipos, fechas y reglas programadas por el usuario.</sub></p>
-<p align="center"><code>Python</code> <code>Windows Task Scheduler</code></p>
+<h3>04. Project Manager</h3>
+<a href="https://github.com/Andrefnx/Project_Manager"><img src="COVERS/windows.svg" width="100%" alt="Project Manager - gestión de avances y revisiones" /></a>
+<p align="left"><sub>Sistema en desarrollo para centralizar avances, entregables y comentarios entre diseñadores y clientes, basado en necesidades observadas durante el trabajo en Geme.</sub></p>
+<p align="center"><code>En desarrollo</code> <code>Herramienta interna</code> <code>Flujos de trabajo</code></p>
 <p align="center"><a href="https://github.com/Andrefnx/Project_Manager"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 </tr>
 </table>
+
+### Otros proyectos relevantes
+
+**Organizador-Respaldos-Windows — funcional.** Automatización en Python para organizar y respaldar archivos de producción en Windows mediante reglas de fecha, jornada e inactividad. El código funcional está preservado mientras se completa su separación del repositorio de Project Manager.
