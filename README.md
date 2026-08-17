@@ -31,7 +31,7 @@
 <table width="100%"><tr>
 <td width="50%" align="center" valign="top">
 <h3>01. VetSantaSofia</h3>
-<a href="https://github.com/andrefnx/VetSantaSofia"><img src="./P1.png" width="100%" alt="VetSantaSofia - Sistema de gestión veterinaria" /></a>
+<a href="https://github.com/andrefnx/VetSantaSofia"><img src="./P1-v2.jpg" width="100%" alt="VetSantaSofia - Sistema de gestión veterinaria" /></a>
 <p align="left"><sub>Sistema web de gestión veterinaria para centralizar el trabajo diario de una clínica. Incluye agenda por veterinario, gestión de pacientes, fichas e historial clínico, consultas, hospitalizaciones y seguimiento del estado de atención. Cuenta además con una demo pública interactiva para recorrer el flujo principal del sistema.</sub></p>
 <p align="center"><code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>JavaScript</code> <code>Bootstrap</code></p>
 <hr>
