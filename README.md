@@ -3,27 +3,73 @@
 ## TECNOLOGÍAS
 <table width="100%">
 <tr>
-<th width="25%">LENGUAJES</th><th width="25%">FRONTEND</th><th width="25%">BACKEND</th><th width="25%">BASE DE DATOS</th>
+<th width="25%">LENGUAJES</th>
+<th width="25%">FRONTEND</th>
+<th width="25%">BACKEND</th>
+<th width="25%">BASE DE DATOS</th>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="40" height="40" /><br/><b>Python</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" /><br/><b>HTML5</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="40" height="40" /><br/><b>Django</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" height="40" /><br/><b>PostgreSQL</b></td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="40" height="40" /><br/>
+  <b>Python</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="40" height="40" /><br/>
+  <b>HTML5</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="40" height="40" /><br/>
+  <b>Django</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8B-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" height="40" /><br/>
+  <b>PostgreSQL</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8B-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" /><br/><b>JavaScript</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40" /><br/><b>CSS3</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" height="40" /><br/><b>Node.js</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" height="40" /><br/><b>MySQL</b></td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40" height="40" /><br/>
+  <b>JavaScript</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8B-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="40" height="40" /><br/>
+  <b>CSS3</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8B-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" height="40" /><br/>
+  <b>Node.js</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8B%E2%97%8B-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="40" height="40" /><br/>
+  <b>MySQL</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8B%E2%97%8B-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" height="40" /><br/><b>Java</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="40" height="40" /><br/><b>Bootstrap</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" /><br/><b>React</b></td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40" height="40" /><br/>
+  <b>Java</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8B%E2%97%8B%E2%97%8B-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="40" height="40" /><br/>
+  <b>Bootstrap</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8F%E2%97%8B-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
+<td align="center" valign="middle">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" height="40" /><br/>
+  <b>React</b><br/>
+  <img src="https://img.shields.io/badge/-%E2%97%8F%E2%97%8F%E2%97%8B%E2%97%8B%E2%97%8B-161b22?style=flat-square&colorA=161b22&colorB=21262d" height="18" />
+</td>
 <td></td>
 </tr>
-<tr><td></td><td></td><td align="center"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="40" height="40" /><br/><b>Postman</b></td><td></td></tr>
 </table>
 
 ## PROYECTOS DESTACADOS
