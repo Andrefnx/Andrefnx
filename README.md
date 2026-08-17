@@ -131,28 +131,44 @@
 
 </td>
     <!-- PROYECTO 2 -->
-    <td width="50%" align="center" valign="top">
-      <h3><b>02. Nombre del Proyecto</b></h3>
-      <a href="https://github.com/TU_USUARIO/PROYECTO_2">
-        <img src="./P2.jpg" width="100%" height="240" style="object-fit: cover; border-radius: 8px;" />
-      </a>
-      <br/><br/>
-      <p align="left">
-        <sub style="color: #8b949e;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu luctus nisi, in molestie massa. Ut in scelerisque ipsum. Curabitur at consectetur enim. Duis ullamcorper leo nec odio molestie pulvinar. Praesent at dolor nisl. Sed fermentum, ipsum sed feugiat lobortis, augue nibh lobortis neque, sed feugiat justo sem non nulla. </sub>
-      </p>
-      <p align="center">
-        <code>JavaScript</code> <code>React</code> <code>Node.js</code>
-      </p>
-      <hr/>
-      <p align="center">
-        <a href="https://github.com/TU_USUARIO/PROYECTO_2">
-          <img src="https://img.shields.io/badge/Repositorio-161b22?style=flat-square&logo=github&logoColor=white" />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://TU_DEMO.com">
-          <img src="https://img.shields.io/badge/Demo-161b22?style=flat-square&logo=googlechrome&logoColor=white" />
-        </a>
-      </p>
-    </td>
+<td width="50%" align="center" valign="top">
+
+  <h3>02. Writing Toolkit</h3>
+
+  <a href="https://github.com/Andrefnx/Writing_Toolkit">
+    <img
+      src="./P2.svg"
+      width="100%"
+      alt="Writing Toolkit - Herramientas de escritura y revisión para Google Docs"
+    />
+  </a>
+
+  <p align="left">
+    <sub>
+      Conjunto de herramientas para Google Docs desarrollado con Apps Script para
+      apoyar la escritura y revisión de documentos. Permite contar palabras con
+      desglose por pestaña, comparar versiones detectando contenido nuevo, eliminado,
+      modificado, movido o dividido, y exportar la pestaña activa a HTML. Está pensado
+      como una utilidad complementaria para trabajar con borradores extensos sin salir
+      del documento.
+    </sub>
+  </p>
+
+  <p align="center">
+    <code>Google Apps Script</code>
+    <code>JavaScript</code>
+    <code>HTML</code>
+    <code>Google Docs</code>
+  </p>
+
+  <hr>
+
+  <p align="center">
+    <a href="https://github.com/Andrefnx/Writing_Toolkit">
+      <img src="https://img.shields.io/badge/Repositorio-161b22?style=flat-square&logo=github&logoColor=white" />
+    </a>
+  </p>
+
+</td>
   </tr>
 </table>
