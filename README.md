@@ -115,6 +115,7 @@
     <code>Django</code>
     <code>PostgreSQL</code>
     <code>JavaScript</code>
+    <code>Bootstrap</code>
   </p>
 
   <hr>
