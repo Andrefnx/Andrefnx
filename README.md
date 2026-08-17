@@ -1,4 +1,6 @@
-
+<h1 align="center">Andrea Henríquez</h1>
+<p align="center"><b>Desarrolladora de software junior · Backend · Automatización · Integraciones</b></p>
+<p align="center">Experiencia complementaria en diseño y UI/UX aplicada a la construcción de interfaces y flujos de usuario.</p>
 
 ## TECNOLOGÍAS
 <table width="100%">
@@ -25,34 +27,43 @@
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-<h3>01. VetSantaSofia</h3>
-<a href="https://github.com/Andrefnx/VetSantaSofia"><img src="COVERS/vet.png" width="100%" alt="VetSantaSofia - sistema de gestión veterinaria" /></a>
-<p align="left"><sub>Sistema de gestión veterinaria desarrollado desde cero como proyecto de título aprobado. Integra agenda, pacientes, atención clínica, hospitalización, inventario, servicios, caja y administración según roles.</sub></p>
-<p align="center"><code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>JavaScript</code> <code>Bootstrap</code></p>
-<p align="center"><a href="https://github.com/Andrefnx/VetSantaSofia"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
+<h3>01. Notion Automatizaciones</h3>
+<a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="COVERS/notion.png" width="100%" alt="Notion Automatizaciones - integración con Notion API" /></a>
+<p align="left"><sub>Automatizaciones financieras en Python conectadas con Notion API para consultar y actualizar información, generar cuotas y procesar pagos. Incluye cliente HTTP con paginación, reintentos y manejo de errores.</sub></p>
+<p align="center"><code>Python</code> <code>Requests</code> <code>Notion API</code></p>
+<p align="center"><a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 <td width="50%" align="center" valign="top">
-<h3>02. Notion Automatizaciones</h3>
-<a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="COVERS/notion.png" width="100%" alt="Notion Automatizaciones - integración con Notion API" /></a>
-<p align="left"><sub>Automatizaciones en Python para consultar, procesar y actualizar información de Notion mediante su API, reduciendo tareas manuales recurrentes.</sub></p>
-<p align="center"><code>Python</code> <code>Requests</code> <code>Notion API</code> <code>JavaScript</code></p>
-<p align="center"><a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
+<h3>02. VetSantaSofia</h3>
+<a href="https://github.com/Andrefnx/VetSantaSofia"><img src="COVERS/vet.png" width="100%" alt="VetSantaSofia - sistema de gestión veterinaria" /></a>
+<p align="left"><sub>Sistema de gestión veterinaria desarrollado como proyecto de título aprobado. Integra autenticación por RUT, pacientes, agenda, atención clínica, inventario, servicios, caja y trazabilidad.</sub></p>
+<p align="center"><code>Python</code> <code>Django</code> <code>PostgreSQL</code> <code>JavaScript</code> <code>Bootstrap</code></p>
+<p align="center"><a href="https://github.com/Andrefnx/VetSantaSofia"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<h3>03. Writing Toolkit</h3>
-<a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="COVERS/writing.svg" width="100%" alt="Writing Toolkit - apoyo para escritura y revisión en Google Docs" /></a>
-<p align="left"><sub>Herramienta para Google Docs orientada a organizar, comparar y revisar textos durante el proceso de escritura. Actualmente continúa en desarrollo.</sub></p>
-<p align="center"><code>Google Apps Script</code> <code>JavaScript</code> <code>HTML</code> <code>Google Docs</code></p>
-<p align="center"><a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
+<h3>03. Geme Project Manager · En desarrollo</h3>
+<p align="left"><sub>Herramienta en etapa inicial para centralizar el seguimiento de proyectos, avances, entregas y comentarios entre diseñadores y clientes. El repositorio todavía no declara un stack tecnológico porque no existe una base de código pública suficiente para hacerlo.</sub></p>
+<p align="center"><code>En desarrollo</code></p>
+<p align="center"><a href="https://github.com/Andrefnx/Geme_ClientManager"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 <td width="50%" align="center" valign="top">
-<h3>04. Organizador-Respaldos-Windows</h3>
-<a href="https://github.com/Andrefnx/Windows_File_Backup"><img src="COVERS/windows.svg" width="100%" alt="Organizador-Respaldos-Windows - automatización de archivos en Windows" /></a>
-<p align="left"><sub>Automatización en Python para organizar y respaldar archivos de producción en Windows mediante reglas de fecha, jornada e inactividad, con ejecución programada y prevención de sobrescrituras.</sub></p>
+<h3>04. Organizador de archivos y respaldos para Windows</h3>
+<a href="https://github.com/Andrefnx/Windows_File_Backup"><img src="COVERS/windows.svg" width="100%" alt="Organizador de archivos y respaldos para Windows" /></a>
+<p align="left"><sub>Automatización funcional para organizar archivos `.indd` de una jornada nocturna, comprobar inactividad y moverlos a respaldos por fecha sin sobrescribir archivos existentes.</sub></p>
 <p align="center"><code>Python</code> <code>pytest</code> <code>PowerShell</code> <code>Windows Task Scheduler</code></p>
 <p align="center"><a href="https://github.com/Andrefnx/Windows_File_Backup"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>05. Writing Toolkit · En desarrollo</h3>
+<a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="COVERS/writing.svg" width="100%" alt="Writing Toolkit - herramientas para Google Docs" /></a>
+<p align="left"><sub>Herramientas para Google Docs que añaden conteo de palabras con reglas personalizadas, comparación de versiones por pestañas y exportación de contenido a HTML.</sub></p>
+<p align="center"><code>Google Apps Script</code> <code>JavaScript</code> <code>HTML</code> <code>Google Docs</code></p>
+<p align="center"><a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
+</td>
+<td width="50%" align="center" valign="top">&nbsp;</td>
 </tr>
 </table>
