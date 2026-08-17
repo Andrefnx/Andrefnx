@@ -43,26 +43,26 @@
 </tr>
 <tr>
 <td width="50%" align="center" valign="top">
-<h3>03. Geme Project Manager · En desarrollo</h3>
-<p align="left"><sub>Herramienta en etapa inicial para centralizar el seguimiento de proyectos, avances, entregas y comentarios entre diseñadores y clientes. El repositorio todavía no declara un stack tecnológico porque no existe una base de código pública suficiente para hacerlo.</sub></p>
-<p align="center"><code>En desarrollo</code></p>
-<p align="center"><a href="https://github.com/Andrefnx/Geme_ClientManager"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
-</td>
-<td width="50%" align="center" valign="top">
-<h3>04. Organizador de archivos y respaldos para Windows</h3>
+<h3>03. Organizador de archivos y respaldos para Windows</h3>
 <a href="https://github.com/Andrefnx/Windows_File_Backup"><img src="COVERS/windows.svg" width="100%" alt="Organizador de archivos y respaldos para Windows" /></a>
 <p align="left"><sub>Automatización funcional para organizar archivos `.indd` de una jornada nocturna, comprobar inactividad y moverlos a respaldos por fecha sin sobrescribir archivos existentes.</sub></p>
 <p align="center"><code>Python</code> <code>pytest</code> <code>PowerShell</code> <code>Windows Task Scheduler</code></p>
 <p align="center"><a href="https://github.com/Andrefnx/Windows_File_Backup"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" align="center" valign="top">
-<h3>05. Writing Toolkit · En desarrollo</h3>
+<h3>04. Writing Toolkit · En desarrollo</h3>
 <a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="COVERS/writing.svg" width="100%" alt="Writing Toolkit - herramientas para Google Docs" /></a>
 <p align="left"><sub>Herramientas para Google Docs que añaden conteo de palabras con reglas personalizadas, comparación de versiones por pestañas y exportación de contenido a HTML.</sub></p>
 <p align="center"><code>Google Apps Script</code> <code>JavaScript</code> <code>HTML</code> <code>Google Docs</code></p>
 <p align="center"><a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>05. Geme Project Manager · En desarrollo</h3>
+<p align="left"><sub>Herramienta en etapa inicial para centralizar el seguimiento de proyectos, avances, entregas y comentarios entre diseñadores y clientes. El repositorio todavía no declara un stack tecnológico porque no existe una base de código pública suficiente para hacerlo.</sub></p>
+<p align="center"><code>En desarrollo</code></p>
+<p align="center"><a href="https://github.com/Andrefnx/Geme_ClientManager"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 <td width="50%" align="center" valign="top">&nbsp;</td>
 </tr>
