@@ -48,15 +48,11 @@
 <p align="center"><a href="https://github.com/Andrefnx/Writing_Toolkit"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 <td width="50%" align="center" valign="top">
-<h3>04. Project Manager</h3>
-<a href="https://github.com/Andrefnx/Project_Manager"><img src="COVERS/windows.svg" width="100%" alt="Project Manager - gestión de avances y revisiones" /></a>
-<p align="left"><sub>Sistema en desarrollo para centralizar avances, entregables y comentarios entre diseñadores y clientes, basado en necesidades observadas durante el trabajo en Geme.</sub></p>
-<p align="center"><code>En desarrollo</code> <code>Herramienta interna</code> <code>Flujos de trabajo</code></p>
+<h3>04. Organizador-Respaldos-Windows</h3>
+<a href="https://github.com/Andrefnx/Project_Manager"><img src="COVERS/windows.svg" width="100%" alt="Organizador-Respaldos-Windows - automatización de archivos en Windows" /></a>
+<p align="left"><sub>Automatización en Python para organizar y respaldar archivos de producción en Windows mediante reglas de fecha, jornada e inactividad, con ejecución programada y prevención de sobrescrituras.</sub></p>
+<p align="center"><code>Python</code> <code>pytest</code> <code>PowerShell</code> <code>Windows Task Scheduler</code></p>
 <p align="center"><a href="https://github.com/Andrefnx/Project_Manager"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 </tr>
 </table>
-
-### Otros proyectos relevantes
-
-**Organizador-Respaldos-Windows — funcional.** Automatización en Python para organizar y respaldar archivos de producción en Windows mediante reglas de fecha, jornada e inactividad. El código funcional está preservado mientras se completa su separación del repositorio de Project Manager.
