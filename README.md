@@ -49,9 +49,9 @@
 </td>
 <td width="50%" align="center" valign="top">
 <h3>04. Organizador de Windows</h3>
-<a href="https://github.com/Andrefnx/Project_Manager"><img src="COVERS/windows.png" width="100%" alt="Organizador de Windows - clasificación automatizada de archivos y carpetas" /></a>
+<a href="https://github.com/Andrefnx/Project_Manager"><img src="COVERS/windows.svg" width="100%" alt="Organizador de Windows - movimiento automatizado de archivos en Windows" /></a>
 <p align="left"><sub>Herramienta configurable para clasificar y mover automáticamente archivos o carpetas según nombres, tipos, fechas y reglas programadas por el usuario.</sub></p>
-<p align="center"><code>Python</code> <code>React</code> <code>Windows Task Scheduler</code></p>
+<p align="center"><code>Python</code> <code>Windows Task Scheduler</code></p>
 <p align="center"><a href="https://github.com/Andrefnx/Project_Manager"><img src="https://img.shields.io/badge/Repositorio-30363d?style=flat-square&logo=github&logoColor=white&labelColor=30363d" alt="Repositorio" /></a></p>
 </td>
 </tr>
