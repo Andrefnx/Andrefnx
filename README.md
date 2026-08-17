@@ -50,7 +50,7 @@
 <table width="100%"><tr>
 <td width="50%" align="center" valign="top">
 <h3>03. Notion Automatizaciones</h3>
-<a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="./P3-notion-template.svg" width="100%" alt="Notion Automatizaciones - plantilla financiera mensual automatizada" /></a>
+<a href="https://github.com/Andrefnx/Notion_Automatizaciones"><img src="./P3-notion-template-v2.svg" width="100%" alt="Plantilla de Notion - Gestión Financiera Mensual automatizada" /></a>
 <p align="left"><sub>Plantilla visual de gestión financiera mensual inspirada en Notion y conectada a una automatización real con Python y requests. Prepara cada período, registra ingresos programados, replica gastos recurrentes y genera cuotas, con una demo pública que utiliza únicamente datos ficticios y credenciales totalmente separadas.</sub></p>
 <p align="center"><code>Python</code> <code>Requests</code> <code>Notion API</code> <code>React</code> <code>JavaScript</code></p>
 <hr>
