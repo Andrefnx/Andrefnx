@@ -137,7 +137,7 @@
 
   <a href="https://github.com/Andrefnx/Writing_Toolkit">
     <img
-      src="./P2.svg"
+      src="./P2-writing-toolkit.svg"
       width="100%"
       alt="Writing Toolkit - Herramientas de escritura y revisión para Google Docs"
     />
